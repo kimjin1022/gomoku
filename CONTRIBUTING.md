@@ -50,8 +50,7 @@ def get_move(board):
 
 ## 3. PR 양식
 
-* **알고리즘 PR:** `algorithm_pr_template.md` 파일을 참조하여 양식에 맞춰 작성해주세요.
-
+* **알고리즘 PR:** [algorithm_pr_template.md](https://github.com/kyngre/gomoku/blob/main/.github/PULL_REQUEST_TEMPLATE/algorithm_pr_template.md) 파일을 참조하여 양식에 맞춰 작성해주세요.
 
 ---
 
